@@ -7,9 +7,9 @@ ExtraKeY o teclas extras nos permite tener teclas adicionales a nuestro termux  
 
  $ git clone https://github.com/HonkerHack/ExtraKeY
 
- $ cd Teclas 
+ $ cd ExtraKeY
 
- $ chmod +x ExtraKey
+ $ chmod +x *
 
  $ ./Start -use --Install
 
